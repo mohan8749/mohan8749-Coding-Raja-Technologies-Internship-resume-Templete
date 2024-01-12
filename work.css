@@ -1,0 +1,37 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+main {
+    max-width: 800px;
+    margin: 2em auto;
+    padding: 1em;
+}
+
+fieldset {
+    margin-bottom: 1em;
+}
+
+#previewContainer {
+    margin-top: 2em;
+}
+
+#preview {
+    border: 1px solid #ccc;
+    padding: 1em;
+}
+
+button {
+    display: block;
+    margin-top: 1em;
+}
